@@ -7,6 +7,12 @@ def merge(arrA, arrB):
     if elements == 0:
         return
 
+    for i in arr[merged_arr]:
+        if arrA[0] < arrB[0]:
+            append.merged_arr[arrA[0]]
+            append.merged_arr[arrB[0]]
+        elif arrA[0] > arrB[0]:
+            
     
 
     return merged_arr

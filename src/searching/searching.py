@@ -1,6 +1,5 @@
 # TO-DO: Implement a recursive implementation of binary search
 def binary_search(arr, target, start, end):
-    # Your code here
     # First we establish our middle point in the list/array
     # We create a variable called middle
     # Then, we add our start and end before dividing the floor by 2
