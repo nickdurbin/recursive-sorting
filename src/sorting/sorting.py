@@ -4,7 +4,10 @@ def merge(arrA, arrB):
     merged_arr = [0] * elements
 
     # Your code here
+    if elements == 0:
+        return
 
+    
 
     return merged_arr
 
