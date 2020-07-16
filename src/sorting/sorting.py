@@ -1,6 +1,6 @@
 # TO-DO: complete the helper function below to merge 2 sorted arrays
 def merge(arrA, arrB):
-    # Create a new array
+    # Create a new array that will store the "sorted" values
     merged_arr = []
 
     # Check to make sure both arrays have values in them
